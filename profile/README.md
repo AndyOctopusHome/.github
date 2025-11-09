@@ -26,7 +26,7 @@ Welcome:
 - Community Moderator
 - Wiki Writers
 
-📬 If you wan't to join us, send an e-mail to join-mc-network-github@andyoctopus.com
+📬 If you want to join us, send an e-mail to join-mc-network-github@andyoctopus.com
 
 ---
 
