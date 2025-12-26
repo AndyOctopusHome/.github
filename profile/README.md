@@ -14,7 +14,7 @@ We are **AndyOctopus Network**'s Development Team!
 ## 🛠️ Projects
 
 We have a lot of projects, but most of them is private, so you can't see it :(
-Public Minecraft Server: mc.andyoctopus.com
+- Public Minecraft Server: mc.andyoctopus.com
 
 ---
 
